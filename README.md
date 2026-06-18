@@ -24,6 +24,12 @@
 
 </div>
 
+<div>
+  <p align="center">
+  <img src="https://giphy.com/gifs/waiting-loading-download-rtUpdVpej15kUOCt6e">
+</p>
+</div>
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandaruizleite/amandaruizleite/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandaruizleite/amandaruizleite/output/github-contribution-grid-snake-dark.svg">
