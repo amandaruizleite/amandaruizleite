@@ -9,7 +9,7 @@
 
 ---
 
-<img aling="right" width="200" alt="Image" src="https://pin.it/1ZkRnHAzw" />
+<img aling="right" width="200" alt="Image" src="https://github.com/user-attachments/assets/9c7f97e6-0a4f-4186-8519-2cdc85cac6b3" />
 
 ### 🚀 Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
