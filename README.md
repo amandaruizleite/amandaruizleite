@@ -9,7 +9,7 @@
 
 ---
 
-<img aling="right" width="200" alt="Image" src="https://github.com/user-attachments/assets/9c7f97e6-0a4f-4186-8519-2cdc85cac6b3" />
+<img aling="right" width="200" alt="Gif coding" src="https://github.com/amandaruizleite/amandaruizleite/issues/1#issue-4696612972" />
 
 ### 🚀 Tecnologias & Ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,6 +29,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amandaruizleite/amandaruizleite/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amandaruizleite/amandaruizleite/output/github-contribution-grid-snake.svg">
 </picture>
-
 
 
